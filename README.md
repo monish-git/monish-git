@@ -14,3 +14,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monish-git/monish-git/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/monish-git/monish-git/output/github-snake.svg" />
+</picture>
